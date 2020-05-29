@@ -1,6 +1,3 @@
-//C프로그래밍 실습 5주차 과제
-//20200604 컴퓨터교육과 김현석
-
 //01번 문제
 #define  _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
