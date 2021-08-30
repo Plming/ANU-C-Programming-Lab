@@ -1,2 +1,0 @@
-C:\Users\kim01\OneDrive\1학기\C프로그래밍실습I\4월30일실습\x64\Debug\4월30일실습.exe
-C:\Users\kim01\OneDrive\1학기\C프로그래밍실습I\4월30일실습\x64\Debug\4월30일실습.pdb

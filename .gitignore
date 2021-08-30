@@ -1,4 +1,4 @@
-*/Debug/
-*/.vs/
-CProgramming_Final.hwp
-CProgrammingLab_Final.hwp
+*
+!.gitignore
+!*/
+!**/*.c
